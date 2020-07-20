@@ -1,4 +1,4 @@
-#Europe's Greenhouse Gas Emissions (1990 -2014)
+_Europe's Greenhouse Gas Emissions (1990 -2014)_
 This is  the final projects my teammate and I did for our Time Series class. We performed it in R.
 The project is called Europe’s Greenhouse Gas Emissions from 1990 - 2014. For this project we used the United Nation's Dataset in which it covered 43 countries in Europe. 
 The dataset has a total of 8,406 observations and have columns such as : Country/Region, Year (1990-2014), Value (Volume of Pollutant in Kilotonnes), Category of Pollutant (CO2, NF3, SF6, CH4, N2O,
