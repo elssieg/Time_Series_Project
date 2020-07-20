@@ -1,6 +1,6 @@
 # Project Overview
 
-This is the final project that I worked on, with one other classmate, for **DCS-425: Time Series and Forcasting.** It was developed in R-Studio, and revolved around greenhouse gas emissions in Europe from 1990 to 2014.
+This is the final project that I worked on, with one other classmate, for **DCS-425: Time Series and Forecasting.** It was developed in R-Studio, and revolved around greenhouse gas emissions in Europe from 1990 to 2014.
 
 ## Europe's Greenhouse Gas Emissions (1990 - 2014)
 
