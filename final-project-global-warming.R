@@ -1,4 +1,3 @@
-# Elssie Guerra & Jillian Stoller
 #Final Project Code
 #DSC 425
 
