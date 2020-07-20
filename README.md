@@ -4,7 +4,7 @@ This is the final project that I worked on, with one other classmate, for **DCS-
 
 ## Europe's Greenhouse Gas Emissions (1990 - 2014)
 
-This project uses a dataset provided by the United Nation's, which covers 43 countries in Europe. The dataset has a total of 8,406 observations, and consists of the following columns: 
+This project uses a dataset provided by the United Nations, which covers 43 countries in Europe. The dataset has a total of 8,406 observations, and consists of the following columns: 
 
 * Country/Region
 * Year (1990-2014)
