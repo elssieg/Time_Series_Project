@@ -11,5 +11,5 @@ The steps we took to get the best Time Series model was:
 3. Look into different ARIMA models to see which one give us the best AIC, and BIC.
 4. Perform Analysis of Residuals
 5. Split data into training/testing.
-6. 
+6. Draw Conclusions
 
