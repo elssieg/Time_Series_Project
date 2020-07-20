@@ -1,4 +1,4 @@
-#Group 12: Elisse Guerra & Jillian Stoller
+# Elssie Guerra & Jillian Stoller
 #Final Project Code
 #DSC 425
 
