@@ -1,15 +1,31 @@
-_Europe's Greenhouse Gas Emissions (1990 - 2014)_
+# Project Overview
 
-This is  the final project my teammate and I did for our Time Series class. We performed it in R studio.
-For this project we used the United Nation's Dataset in which it covered 43 countries in Europe.  The dataset has a total of 8,406 observations and have columns such as : Country/Region, Year (1990-2014), Value (Volume of Pollutant in Kilotonnes), Category of Pollutant (CO2, NF3, SF6, CH4, N2O, HFCS, PFCs, SF6, NF3).
+This is the final project that I worked on, with one other classmate, for **DCS-425: Time Series and Forcasting.** It was developed in R-Studio, and revolved around greenhouse gas emissions in Europe from 1990 to 2014.
 
-For simplicity purposes, we decided to group together all of the European countries into 4 different regions: Western, Eastern, Northern, and Southern Europe. All of the trends in the 4 different regions show a downtrend. Therefore, we decided to group all of the 4 regions together. 
+## Europe's Greenhouse Gas Emissions (1990 - 2014)
 
-The steps we took to get the best Time Series model was: 
-1. Look at the ACF and PACF
-2. Perform Ljung-Box test to see if the data is independently distributed.
-3. Look into different ARIMA models to see which one give us the best AIC, and BIC.
-4. Perform Analysis of Residuals
-5. Split data into training/testing.
-6. Draw Conclusions
+This project uses a dataset provided by the United Nation's, which covers 43 countries in Europe. The dataset has a total of 8,406 observations, and consists of the following columns: 
+
+* Country/Region
+* Year (1990-2014)
+* Value (Volume of Pollutant in Kilotonnes)
+* Category of Pollutant (CO2, NF3, SF6, CH4, N2O, HFCS, PFCs, SF6, NF3)
+
+For simplicity's sake, all of the European countries were grouped into 4 different regions: 
+
+* Western
+* Eastern
+* Northern
+* Southern Europe. 
+
+Results gathered for each grouping showed downward trends. Therefore, we decided to group all of the 4 regions together. 
+
+### Project Timeline
+
+1. Reviewed the ACF and PACF.
+2. Performed Ljung-Box test to see if the data is independently distributed.
+3. Looked into different ARIMA models to see which one gave us the best AIC, and BIC.
+4. Performed Analysis of Residuals.
+5. Split data into training and testing.
+6. Drew Conclusions from the results.
 
